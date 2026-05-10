@@ -1,4 +1,4 @@
-# Mubina Rahman
+# Mubeena V
 
 Cybersecurity Graduate with hands-on experience in SOC operations, threat monitoring, log analysis, network security, and security tools. Passionate about cybersecurity operations, threat detection, vulnerability assessment, and continuous learning through practical labs and simulations. Experienced with SIEM platforms, networking fundamentals, Linux environments, and cybersecurity labs including TryHackMe.
 
