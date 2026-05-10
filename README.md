@@ -149,6 +149,29 @@ Completed multiple hands-on cybersecurity labs and practical exercises on TryHac
 - Basic Penetration Testing
 - Incident Investigation
 
+#### Labs Completed
+- Intro to Logs
+- Introduction to SIEM
+- Log Operations
+- Juicy Details
+
+#### Skills Practiced
+- Log Analysis
+- SIEM Fundamentals
+- Security Event Investigation
+- Threat Monitoring
+- Alert Analysis
+- Event Correlation
+- Blue Team Concepts
+- Incident Investigation Basics
+
+🔗 TryHackMe Profile: https://tryhackme.com/p/Mubeena.rahman
+Links of labs completed : 
+1. https://tryhackme.com/room/introtologs?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6698a4dd7bf728129f025784
+2. https://tryhackme.com/room/logoperations?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6698a4dd7bf728129f025784
+3. https://tryhackme.com/room/introtosiem?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6698a4dd7bf728129f025784
+4. https://tryhackme.com/room/juicydetails?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6698a4dd7bf728129f025784
+
 ---
 
 ## Certifications
