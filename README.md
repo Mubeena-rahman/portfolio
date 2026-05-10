@@ -192,6 +192,6 @@ Bachelor of Computer Applications (BCA) – in IoT, Ethical Hacking & Cybersecur
 
 📧 Email: mubeena.rahman03@gmail.com  
 🔗 LinkedIn : www.linkedin.com/in/mubeena-rahman
-💻 GitHub: https://github.com/yourusername
+💻 GitHub: https://github.com/Mubeena-rahman
 
 ---
