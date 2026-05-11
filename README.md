@@ -171,6 +171,7 @@ Links of labs completed :
 2. https://tryhackme.com/room/logoperations?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6698a4dd7bf728129f025784
 3. https://tryhackme.com/room/introtosiem?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6698a4dd7bf728129f025784
 4. https://tryhackme.com/room/juicydetails?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6698a4dd7bf728129f025784
+5. https://app.letsdefend.io/my-rewards/detail/25bc0d2a5c1748aaace4df5dd289c82c (Hackthebox)
 
 ---
 
