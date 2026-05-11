@@ -84,7 +84,6 @@ Implemented a local security monitoring environment using Wazuh for endpoint mon
 - Security event management
 - Log correlation and monitoring
 
-📄 Project Report Available (PDF)
 
 ---
 
@@ -111,7 +110,7 @@ Developed a cybersecurity-focused academic project based on implementing SIEM co
 - Threat monitoring workflows
 - Security visibility for small organizations
 
-📄 Academic Project Report Available
+📄 Academic Project
 
 ---
 
