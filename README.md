@@ -179,6 +179,7 @@ Links of labs completed :
 - TryHackMe Learning Paths & Labs
 - Practical Approach to Cyber Security (PACS)– TCS iON
 - Cybersecurity, Ethical Hacking & IoT Certification– IBM
+- IBM Badge link : https://www.credly.com/badges/a604e554-5ef2-439c-ad13-5c1b6d81dfbb
 
 ---
 
