@@ -172,6 +172,11 @@ Links of labs completed :
 3. https://tryhackme.com/room/introtosiem?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6698a4dd7bf728129f025784
 4. https://tryhackme.com/room/juicydetails?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6698a4dd7bf728129f025784
 5. https://app.letsdefend.io/my-rewards/detail/25bc0d2a5c1748aaace4df5dd289c82c (Hackthebox)
+6. https://app.letsdefend.io/my-rewards/detail/116848dc83d445c78a8a0b487484a2fa
+7. https://tryhackme.com/room/vulnversity?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6698a4dd7bf728129f025784
+8. https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-excessive-trust-in-client-side-controls
+9. https://tryhackme.com/room/anonymous?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6698a4dd7bf728129f025784
+10. https://tryhackme.com/room/easyctf?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6698a4dd7bf728129f025784
 
 ---
 
@@ -179,6 +184,7 @@ Links of labs completed :
 
 - TryHackMe Learning Paths & Labs
 - Practical Approach to Cyber Security (PACS)– TCS iON
+- https://www.linkedin.com/posts/mubeena-rahman_last-year-i-completed-the-tcs-ion-certification-activity-7403011090735165440-nuSz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-ry2wBgjfGt-q1-mEQnYmWhu02s17PauA (Certificate link)
 - Cybersecurity, Ethical Hacking & IoT Certification– IBM
 - IBM Badge link : https://www.credly.com/badges/a604e554-5ef2-439c-ad13-5c1b6d81dfbb
 
